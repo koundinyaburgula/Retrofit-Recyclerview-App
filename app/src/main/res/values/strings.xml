@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_app</string>
+    <string name="sign_in"> Sign in </string>
+    <string name="sign_up"> Sign up </string>
+    <string name="forgot">Forgot Password ? </string>
+    <string name="splash">Splash Screen Teamways </string>
+    <string name="Sign"> Teamways </string>
+    <string name= "username">Koundinya Burgula"</string>
+    <string name= "mail">abcinfo@gmail.com"</string>
+</resources>
